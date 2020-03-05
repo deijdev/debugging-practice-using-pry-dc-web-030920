@@ -4,6 +4,6 @@ def plus_two(num)
 	num 
 	binding.pry
 end
-[1] pry(#<RSpec::ExampleGroups::PlusTwo>)> num
+[1] pry(plus_two)num
 => 3
-[2] pry(#<RSpec::ExampleGroups::PlusTwo>)>
+[2] pry(#<RSpec::ExampleGroups::PlusTwo>)
